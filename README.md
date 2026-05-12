@@ -46,28 +46,28 @@ The general structure of this project is as follows:
 
 ```plaintext
 src/
-  Day-01-Sonar-Sweep/
-    Resources/
+  day-01-sonar-sweep/
+    resources/
       .gitkeep
     Benchmark.cs
-    Day-01-Sonar-Sweep.csproj
+    day-01-sonar-sweep.csproj
     SonarSweep.cs
-  Day-02-Dive!/
-    Resources/
+  day-02-dive/
+    resources/
       .gitkeep
     Benchmark.cs
-    Day-02-Dive!.csproj
+    day-02-dive.csproj
     Dive.cs
   ...
-  Day-25-Sea-Cucumber/
+  day-25-sea-cucumber/
     ...
 .gitignore
-Advent-of-Code-2021.slnx
+advent-of-code-2021.slnx
 LICENSE
 README.md
 ```
 
-The [solution file](Advent-of-Code-2021.slnx) contains 25 standalone projects
+The [solution file](advent-of-code-2021.slnx) contains 25 standalone projects
 for the days of the Advent calendar, organized into separate directories. Each
 one provides a corresponding `.csproj` file that can be opened in Visual Studio.
 In addition, there is a `Resources` directory which contains the puzzle
@@ -92,8 +92,8 @@ If you want to try out one of my solutions, simply follow these steps below:
    choice.
 
    ```shell
-   git clone https://github.com/Piwimau/Advent-of-Code-2021 ./Advent-of-Code-2021
-   cd ./Advent-of-Code-2021
+   git clone https://github.com/Piwimau/advent-of-code-2021 ./advent-of-code-2021
+   cd ./advent-of-code-2021
    ```
 
 3. Put your input for the day in a file called `input.txt` and copy it to the
@@ -102,13 +102,13 @@ If you want to try out one of my solutions, simply follow these steps below:
    already.
 
    ```shell
-   cp input.txt ./src/Day-01-Sonar-Sweep/Resources
+   cp input.txt ./src/day-01-sonar-sweep/resources
    ```
 
 4. Nagivate into the appropriate day's directory.
 
    ```shell
-   cd ./src/Day-01-Sonar-Sweep
+   cd ./src/day-01-sonar-sweep
    ```
 
 5. Finally, run the code in release mode to take advantage of all optimizations
@@ -127,7 +127,7 @@ If you want to try out one of my solutions, simply follow these steps below:
    ```
 
 If you have Visual Studio installed on your machine, you may also just open the
-provided [solution file](Advent-of-Code-2021.slnx) and proceed from there.
+provided [solution file](advent-of-code-2021.slnx) and proceed from there.
 
 ## Benchmarks
 

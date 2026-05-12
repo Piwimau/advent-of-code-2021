@@ -1,0 +1,35 @@
+<Solution>
+    <Folder Name="/items/">
+        <File Path=".editorconfig" />
+        <File Path=".gitignore" />
+        <File Path="LICENSE" />
+        <File Path="README.md" />
+    </Folder>
+    <Folder Name="/src/">
+        <Project Path="src/day-01-sonar-sweep/day-01-sonar-sweep.csproj" />
+        <Project Path="src/day-02-dive/day-02-dive.csproj" />
+        <Project Path="src/day-03-binary-diagnostic/day-03-binary-diagnostic.csproj" />
+        <Project Path="src/day-04-giant-squid/day-04-giant-squid.csproj" />
+        <Project Path="src/day-05-hydrothermal-venture/day-05-hydrothermal-venture.csproj" />
+        <Project Path="src/day-06-lanternfish/day-06-lanternfish.csproj" />
+        <Project Path="src/day-07-the-treachery-of-whales/day-07-the-treachery-of-whales.csproj" />
+        <Project Path="src/day-08-seven-segment-search/day-08-seven-segment-search.csproj" />
+        <Project Path="src/day-09-smoke-basin/day-09-smoke-basin.csproj" />
+        <Project Path="src/day-10-syntax-scoring/day-10-syntax-scoring.csproj" />
+        <Project Path="src/day-11-dumbo-octopus/day-11-dumbo-octopus.csproj" />
+        <Project Path="src/day-12-passage-pathing/day-12-passage-pathing.csproj" />
+        <Project Path="src/day-13-transparent-origami/day-13-transparent-origami.csproj" />
+        <Project Path="src/day-14-extended-polymerization/day-14-extended-polymerization.csproj" />
+        <Project Path="src/day-15-chiton/day-15-chiton.csproj" />
+        <Project Path="src/day-16-packet-decoder/day-16-packet-decoder.csproj" />
+        <Project Path="src/day-17-trick-shot/day-17-trick-shot.csproj" />
+        <Project Path="src/day-18-snailfish/day-18-snailfish.csproj" />
+        <Project Path="src/day-19-beacon-scanner/day-19-beacon-scanner.csproj" />
+        <Project Path="src/day-20-trench-map/day-20-trench-map.csproj" />
+        <Project Path="src/day-21-dirac-dice/day-21-dirac-dice.csproj" />
+        <Project Path="src/day-22-reactor-reboot/day-22-reactor-reboot.csproj" />
+        <Project Path="src/day-23-amphipod/day-23-amphipod.csproj" />
+        <Project Path="src/day-24-arithmetic-logic-unit/day-24-arithmetic-logic-unit.csproj" />
+        <Project Path="src/day-25-sea-cucumber/day-25-sea-cucumber.csproj" />
+    </Folder>
+</Solution>
